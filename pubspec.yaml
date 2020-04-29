@@ -20,7 +20,7 @@ flutter:
   fonts:
     - family: hafs
       fonts:
-        - asset: assets/fonts/hafs/UthmanicHafs1 Ver13.otf
+        - asset: assets/fonts/hafs/UthmanicHafs1-Ver13.otf
     - family: dubai
       fonts:
         - asset: assets/fonts/dubai/Dubai-Light.ttf
